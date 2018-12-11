@@ -1,0 +1,4 @@
+-------PENNYGIGGS-------
+
+Brief: A Tamagotchi clone made using Python where the player has to take care of a guinea pig-like critter called a pennygigg.
+
