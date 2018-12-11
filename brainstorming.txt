@@ -1,4 +1,35 @@
 -------PENNYGIGGS-------
 
-Brief: A Tamagotchi clone made using Python where the player has to take care of a guinea pig-like critter called a pennygigg.
+Brief: A Tamagotchi clone made using Python/Pygame where the player has to take care of a guinea pig-like critter called a "Pennygigg."
 
+Premise: You've been given a rather strange egg one day. After tending to it for a spell, it has hatched into a Pennygigg, which you decide to take in as your own pet. Pennygiggs are like guinea pigs in that they like to eat vegetables and such, but Pennygiggs differ in their desire to be hyperactive and hypertalkative. They can be a handful to care for, but their adorableness and fun-going attitude more than makes up for it.
+
+-------VARIABLES-------
+Traits for Pennygiggs:
+1. Age
+2. Weight
+3. Breed
+4. Personality
+5. Gender
+
+Meters for Pennygiggs:
+1. Hunger
+2. Energy
+3. Fun
+
+-------BREEDS-------
+1. Tribyssian
+2. Golduvian
+3. Sulkie
+4. Cakavy
+
+-------FUNCTIONS-------
+Things To Do:
+1. Feed
+2. Rest
+3. Play
+4. Talk
+5. Dance
+
+To read:
+https://inventwithpython.com/blog/2012/05/03/implement-a-save-game-feature-in-python-with-the-shelve-module/
